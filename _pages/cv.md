@@ -25,56 +25,34 @@ Skills
 * Programming Language: MATLAB, Python, ...
 * Language: Chinese, English 
 
-Academic Work Experience
+Experience
 ======
 * Spring 2025: Teaching Assistant of AMCS 211 (Numerical Optimization)
   * King Abdullah University of Science and Technology (**KAUST**)
   * Duties includes: Homeworks and Tutorials
   * Supervisor: Prof. George Turkiyyah
 
-Academic Activities
+Activities
 ======
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+May 4, 2025 - May 7, 2025: Communication Theory Workshop 2025, Venezia, Italy
+  * Attendee and Poster Presenter
+  
+Nov. 25, 2024 - Nov. 26, 2024: Connecting the World from the Skies Global Forum, Riyadh, Saudi Arabia
+  * Attendee and Poster Presenter
+
+Nov. 14, 2024 - Nov. 15, 2024: 6G Summit Abu Dhabi, Abu Dhabi, United Arab Emirates
+  * Attendee and Poster Presenter
+
+Nov. 4, 2024 - Nov. 5, 2024: 5th KAUST 6G Summit, Thuwal, Saudi Arabia
+  * Attendee and Poster Presenter
+
+Nov. 27, 2024 - Nov. 29, 2023: 4th KAUST 6G Summit, Thuwal, Saudi Arabia
+  * Attendee
  
 Honor and Awards
 ======
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-Art Activitites
-======
+* Nov. 2024: Among Top 10 nominated contributions to the IEEE Future Networks Initiative’ award on Non-Terrestrial Networks for 6G competition (NTNYS’24)
+* Nov. 2024: Best Poster Award in 6G Summit Abu Dhabi 2024
 
 
 
-
-
-
-
-
-
-# Publications
-# ======
-#   <ul>{% for post in site.publications reversed %}
-#     {% include archive-single-cv.html %}
-#   {% endfor %}</ul>
-  
-# Talks
-# ======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
-# Teaching
-# ======
-#   <ul>{% for post in site.teaching reversed %}
-#     {% include archive-single-cv.html %}
-#   {% endfor %}</ul>
-   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
