@@ -27,9 +27,13 @@ Skills
 
 Experience
 ======
-* Spring 2025: Teaching Assistant of **AMCS 211 (Numerical Optimization)**
+Jan. 2025 - Jun. 2025: Teaching Assistant of **AMCS 211 (Numerical Optimization)**
   * King Abdullah University of Science and Technology (**KAUST**)
   * Duties includes: Homeworks and Tutorials
+  * Supervisor: Prof. George Turkiyyah
+July. 2023 - Dec. 2023: Visiting Student in **Communication Theory Lab**
+  * King Abdullah University of Science and Technology (**KAUST**)
+  * Duties includes: Research
   * Supervisor: Prof. George Turkiyyah
 
 Activities
