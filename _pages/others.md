@@ -21,5 +21,5 @@ HONORS & AWARDS
 
 Art
 ======
-* Sep. 2021 - Jun.2022: **Orchestra Leader** and **Principal Player** of Chinese Traditional Wind Instruments in the UESTC **Chinese Traditional Orchestra**
+* Sep. 2021 - Jun. 2022: **Orchestra Leader** and **Principal Player** of Chinese Traditional Wind Instruments in the UESTC **Chinese Traditional Orchestra**
 * Oct. 2020: The First Prize in the 9th Sichuan University Student Art Exhibition
