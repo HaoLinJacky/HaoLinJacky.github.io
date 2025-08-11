@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, King Abdullah University of Science and Technology, Jan. 2025 - Present
+* M.S. in Electrical and Computer Engineering, King Abdullah University of Science and Technology, Aug. 2023 - Dec. 2024
+* B.S. in Communication Engineering, University of Electronic Science and Technology of China, Sept. 2019 - Jun. 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Teaching Assistant of AMCS 211 Numerical Optimization
+  * King Abdullah University of Science and Technology
+  * Duties includes: Homeworks and Tutorials
+  * Supervisor: Prof. George Turkiyyah
 
 * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: MATLAB, Python, ...
+* Language: Chinese, English 
 
 Publications
 ======
