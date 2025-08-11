@@ -22,7 +22,7 @@ Sept. 2019 - Jun. 2023: **B.Eng.** degree in Communication Engineering
 
 Skills
 ======
-* Programming Language: **MATLAB**, Python, ...
+* Programming Language: **MATLAB**, Python, LaTeX ...
 * Language: Chinese, English 
 
 Experience
