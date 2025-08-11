@@ -34,6 +34,9 @@ Experience
 
 Activities
 ======
+May 2025: "**KAUST SDG Highlight Report 2024**: End poverty in all its forms everywhere",
+  * Team Member of CTL
+
 May 4, 2025 - May 7, 2025: **Communication Theory Workshop**, Venezia, Italy
   * Attendee and Poster Presenter
   
@@ -51,7 +54,7 @@ Nov. 27, 2024 - Nov. 29, 2023: **4th KAUST 6G Summit**, Thuwal, Saudi Arabia
  
 Honor and Awards
 ======
-* Nov. 2024: Among **Top 10** nominated contributions to the IEEE Future Networks Initiative’ award on Non-Terrestrial Networks for 6G competition (NTNYS’24)
+* Nov. 2024: **Top 10** nominated contributions to the IEEE Future Networks Initiative’ award on Non-Terrestrial Networks for 6G competition (NTNYS’24)
 * Nov. 2024: **Best Poster Award** in 6G Summit Abu Dhabi 2024
 
 
