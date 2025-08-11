@@ -54,7 +54,7 @@ Nov. 14, 2024 - Nov. 15, 2024: **6G Summit Abu Dhabi**, Abu Dhabi, United Arab E
 Nov. 4, 2024 - Nov. 5, 2024: **5th KAUST 6G Summit**, Thuwal, Saudi Arabia
   * Attendee and Poster Presenter
 
-Nov. 27, 2024 - Nov. 29, 2023: **4th KAUST 6G Summit**, Thuwal, Saudi Arabia
+Nov. 27, 2023 - Nov. 29, 2023: **4th KAUST 6G Summit**, Thuwal, Saudi Arabia
   * Attendee
  
 Honor and Awards
