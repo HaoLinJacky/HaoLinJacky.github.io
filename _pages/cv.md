@@ -13,8 +13,10 @@ Education
 ======
 Jan. 2025 - Present: **Ph.D Student** in Electrical and Computer Engineering
 * King Abdullah University of Science and Technology (**KAUST**)
+
 Aug. 2023 - Dec. 2024: **M.Sc.** degree in Electrical and Computer Engineering
 * King Abdullah University of Science and Technology (**KAUST**)
+
 Sept. 2019 - Jun. 2023: **B.Eng.** degree in Communication Engineering,
 * University of Electronic Science and Technology of China (**UESTC**)
 
