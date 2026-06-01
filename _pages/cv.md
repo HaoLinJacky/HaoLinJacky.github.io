@@ -44,10 +44,16 @@ July. 2023 - Dec. 2023: Visiting Student in **Communication Theory Lab**
 
 Activities
 ======
+May 24, 2026 - May 28, 2026: **IEEE International Conference on Communications 2026**, Glasgow, Scotland, UK
+  * Attendee and 4MT Competition Participant
+
+May 17, 2026 - May 20, 2026: **IEEE Communication Theory Workshop 2026**, São Miguel, Azores, Portugal
+  * Attendee and Poster Presenter
+
 May 2025: "**KAUST SDG Highlight Report 2024**: End poverty in all its forms everywhere",
   * Team Member of CTL
 
-May 4, 2025 - May 7, 2025: **Communication Theory Workshop**, Venezia, Italy
+May 4, 2025 - May 7, 2025: **IEEE Communication Theory Workshop 2025**, Venezia, Italy
   * Attendee and Poster Presenter
   
 Nov. 25, 2024 - Nov. 26, 2024: **Connecting the World from the Skies Global Forum**, Riyadh, Saudi Arabia
@@ -64,6 +70,7 @@ Nov. 27, 2023 - Nov. 29, 2023: **4th KAUST 6G Summit**, Thuwal, Saudi Arabia
  
 Honor and Awards
 ======
+* June 2026: **The 3rd Price** in Four Minute Thesis (4MT) Competition held on IEEE ICC 2026.
 * Nov. 2024: **Top 10** nominated contributions to the IEEE Future Networks Initiative’ award on Non-Terrestrial Networks for 6G competition (NTNYS’24)
 * Nov. 2024: **Best Poster Award** in 6G Summit Abu Dhabi 2024
 
